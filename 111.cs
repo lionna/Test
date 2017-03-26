@@ -14,4 +14,5 @@ namespace Domain.Data.Common
         Task<IEnumerable<TEntity>> GetAllAsync();
         Task<IEnumerable<TEntity>> GetActivAsync();
     }
+    εοτκτοβοβ
 }
